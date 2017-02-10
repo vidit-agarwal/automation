@@ -1,1 +1,1 @@
-# automation
+# This project is about the automation , which can be done in python by Selenium tool. It contains a simple project in which a url is loaded continously. This code can be used to increase views of any article by reloading again and again that url automatically
